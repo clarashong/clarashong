@@ -5,5 +5,4 @@ My name is Clara, and I'm a data science student at the University of Waterloo!
 - 🌙 My favourite projects so far:
   - [Salvage 'N' Sustain](https://github.com/clarashong/salvage-n-sustain)
     - Environment initiative posting board and Gemini-powered disposal guide generator
-  - [Kirby Shooter Game](https://github.com/clarashong/Kirby-Star-Defense)
   - [Taylor Swift Song Recommender](https://github.com/clarashong/Taylor-Swift-Song-Rec)
